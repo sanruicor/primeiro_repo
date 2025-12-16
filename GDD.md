@@ -1,3 +1,5 @@
 # GDD
 
 Resumen.
+
+## Introducción
