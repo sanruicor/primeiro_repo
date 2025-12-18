@@ -3,3 +3,5 @@
 Resumen.
 
 ## Introducción
+
+## Modo de juego
