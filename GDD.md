@@ -7,3 +7,5 @@ Resumen.
 ## Modo de juego
 
 ## Historia
+
+### Maestro Munteroi

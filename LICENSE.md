@@ -1,1 +1,1 @@
-Aquí pongo la licencia del proyecto
+Aquí pongo la licencia del proyecto.
