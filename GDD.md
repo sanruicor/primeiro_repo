@@ -11,3 +11,5 @@ Resumen.
 ## Personajes
 
 ### Dr. Slump
+
+### Maestro Munteroi
