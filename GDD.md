@@ -8,4 +8,6 @@ Resumen.
 
 ## Historia
 
-### Personajes
+## Personajes
+
+### Dr. Slump
