@@ -18,7 +18,7 @@ Este es el primer repositorio que hacemos en Devir para aprender como usar git y
 - git commit: Confirma os cambios na "zona de preparación" e agrégaos ao historial do repositorio.
 
 - git status: Mostra o estado actual do repositorio, incluíndo cales arquivos foron modificados e cales están preparados para ser confirmados.
-- 
+
 - git log: Mostra o historial de confirmacións (commits) do repositorio.
 
 - git diff: Mostra as diferenzas entre as versións actual e anterior dun arquivo.
