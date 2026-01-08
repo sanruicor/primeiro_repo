@@ -7,7 +7,7 @@ Este es el primer repositorio que hacemos en Devir para aprender como usar git y
 ## Link w3school
 [Git sencillo](https://www.w3schools.com/git/default.asp)
 
-## Gith Cheat Sheet
+## Git Cheat Sheet
 
 - git init: Inicializa un novo repositorio de Git no directorio actual.
 
